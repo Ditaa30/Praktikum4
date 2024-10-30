@@ -126,4 +126,4 @@ public class Utama {
 ## Output
 
 
-![output](output(1).png)
+![output](https://github.com/Ditaa30/Praktikum4/blob/main/output%20(1).png?raw=true)
